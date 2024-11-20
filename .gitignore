@@ -1,0 +1,10 @@
+deg
+ref
+
+.github
+*.in
+pyvisqol/__pucache__
+
+requirements.txt
+VERSION
+*.sh
